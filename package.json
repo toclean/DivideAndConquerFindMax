@@ -1,0 +1,16 @@
+{
+  "name": "inclassassignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DivideAndConquer.js",
+  "dependencies": {
+    "typescript": "^2.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc -t esnext -m commonjs DivideAndConquer.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
